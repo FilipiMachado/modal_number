@@ -18,7 +18,7 @@ body {
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  background: linear-gradient(to top left, #28b487, #7dd56f);
+  background: linear-gradient(to top left, #1fcf97, #6add59);
 }
 
 .show-modal {
@@ -53,8 +53,7 @@ p {
   font-size: 1.8rem;
 }
 
-/* -------------------------- */
-/* CLASSES TO MAKE MODAL WORK */
+/* Make Modal Work*/
 .hidden {
   display: none;
 }
